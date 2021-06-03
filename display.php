@@ -35,6 +35,7 @@ while($res = mysqli_fetch_array($query)){
     <body>
     <div class="main-div">
         <h1>List of important people</h1>
+        <h6>Changes Have been made using pull request</h6>
 
     </div>
     
